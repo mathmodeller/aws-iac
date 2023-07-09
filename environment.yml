@@ -1,0 +1,9 @@
+name: terraform-dev
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - pip
+  - python
+  - terraform
